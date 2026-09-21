@@ -1,0 +1,11 @@
+timestamp,sensor_id,instalacion,variable,valor,unidad,estado
+2026-01-01 08:00,SEN001,piscina,temperatura_agua,27.4,C,normal
+2026-01-01 08:00,SEN002,piscina,ph,7.3,pH,normal
+2026-01-01 08:00,SEN003,piscina,cloro,1.2,mg_l,normal
+2026-01-01 08:00,SEN004,sala_calderas,temperatura,68.2,C,normal
+2026-01-01 08:00,SEN005,electricidad,consumo,84.5,kWh,normal
+2026-01-01 12:00,SEN001,piscina,temperatura_agua,27.6,C,normal
+2026-01-01 12:00,SEN002,piscina,ph,7.4,pH,normal
+2026-01-01 12:00,SEN003,piscina,cloro,1.1,mg_l,normal
+2026-01-01 12:00,SEN004,sala_calderas,temperatura,69.0,C,normal
+2026-01-01 12:00,SEN005,electricidad,consumo,91.8,kWh,normal
