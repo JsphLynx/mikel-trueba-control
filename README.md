@@ -20,6 +20,36 @@ El proyecto explora cómo centralizar información técnica de un polideportivo 
 
 El proyecto se ha desarrollado como **MVP / demostrador de portafolio**. Los datos publicados en este repositorio son **sintéticos** y no representan mediciones operativas reales del centro.
 
+## Capturas del MVP
+
+Las siguientes imágenes corresponden al demostrador web y han sido **sanitizadas para su publicación en el portafolio**. No muestran credenciales, datos personales ni información operativa real.
+
+### 1. Panel general
+
+Vista principal del centro de operaciones, con navegación, estado general, indicadores y acceso a los módulos del MVP.
+
+![Panel general de Mikel Trueba Control](screenshots/01_panel_general.jpg)
+
+### 2. Aviso de alcance y estado
+
+La interfaz identifica expresamente la ventana de datos sintéticos y diferencia el catálogo MVP de una instalación real de sensores o de una conexión directa con PLC/BMS.
+
+![Aviso de alcance y estado del MVP](screenshots/02_aviso_estado.jpg)
+
+### 3. Módulos disponibles
+
+Navegación del demostrador: panel general, inventario y esquemas, puntos de medida, checklist, incidencias, costes y ahorro, analítica, automatizaciones y seguridad.
+
+![Módulos disponibles del MVP](screenshots/03_modulos_disponibles.jpg)
+
+### 4. Indicadores sintéticos
+
+Ejemplo de tarjetas de seguimiento utilizadas para representar puntos del catálogo MVP, registros documentales e indicadores demostrativos.
+
+![Indicadores sintéticos del MVP](screenshots/04_indicadores_sinteticos.jpg)
+
+> **Nota:** las cifras mostradas en las capturas son demostrativas y no deben interpretarse como estados, mediciones o resultados operativos reales del Polideportivo Mikel Trueba.
+
 ## Contexto funcional
 
 El proyecto toma como referencia necesidades reales de mantenimiento integral de instalaciones deportivas: gestión de órdenes e incidencias, inventario técnico, monitorización, históricos, alarmas, control de parámetros e informes periódicos.
@@ -74,6 +104,10 @@ mikel-trueba-control/
 ├── src/
 │   └── ejemplo_analitica.py
 └── screenshots/
+    ├── 01_panel_general.jpg
+    ├── 02_aviso_estado.jpg
+    ├── 03_modulos_disponibles.jpg
+    ├── 04_indicadores_sinteticos.jpg
     └── README.md
 ```
 
