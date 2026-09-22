@@ -22,33 +22,33 @@ El proyecto se ha desarrollado como **MVP / demostrador de portafolio**. Los dat
 
 ## Capturas del MVP
 
-Las siguientes imágenes corresponden al demostrador web y han sido **sanitizadas para su publicación en el portafolio**. No muestran credenciales, datos personales ni información operativa real.
+Las siguientes imágenes corresponden al demostrador web y han sido preparadas para su publicación en el portafolio. No muestran credenciales, datos personales ni información operativa real.
 
-### 1. Panel general
+### 1. Ficha del demostrador
 
-Vista principal del centro de operaciones, con navegación, estado general, indicadores y acceso a los módulos del MVP.
+Resume el estado del sitio, las condiciones de acceso, el uso previsto, el carácter no operativo del demostrador y el alcance de la evaluación.
 
-![Panel general de Mikel Trueba Control](screenshots/01_panel_general.jpg)
+![Ficha del demostrador](screenshots/01_ficha_demostrador.png)
 
-### 2. Aviso de alcance y estado
+### 2. Captura 1 - Panel general
 
-La interfaz identifica expresamente la ventana de datos sintéticos y diferencia el catálogo MVP de una instalación real de sensores o de una conexión directa con PLC/BMS.
+Vista general del centro de operaciones, con navegación, aviso de datos sintéticos, panel principal e indicadores del MVP.
 
-![Aviso de alcance y estado del MVP](screenshots/02_aviso_estado.jpg)
+![Panel general](screenshots/02_panel_general.png)
 
-### 3. Módulos disponibles
+### 3. Capturas 2 y 3 - Aviso de alcance y módulos disponibles
 
-Navegación del demostrador: panel general, inventario y esquemas, puntos de medida, checklist, incidencias, costes y ahorro, analítica, automatizaciones y seguridad.
+La imagen reúne el aviso de alcance y estado del demostrador y la navegación funcional disponible: panel general, inventario y esquemas, puntos de medida, checklist, incidencias, costes, analítica, automatizaciones y seguridad.
 
-![Módulos disponibles del MVP](screenshots/03_modulos_disponibles.jpg)
+![Aviso de alcance y módulos disponibles](screenshots/03_aviso_y_modulos.png)
 
-### 4. Indicadores sintéticos
+### 4. Captura 4 - Indicadores sintéticos y condiciones de acceso
 
-Ejemplo de tarjetas de seguimiento utilizadas para representar puntos del catálogo MVP, registros documentales e indicadores demostrativos.
+Se muestran tarjetas de indicadores sintéticos y las condiciones previstas para una evaluación guiada del demostrador.
 
-![Indicadores sintéticos del MVP](screenshots/04_indicadores_sinteticos.jpg)
+![Indicadores sintéticos y condiciones de acceso](screenshots/04_indicadores_y_condiciones.png)
 
-> **Nota:** las cifras mostradas en las capturas son demostrativas y no deben interpretarse como estados, mediciones o resultados operativos reales del Polideportivo Mikel Trueba.
+> **Nota:** las cifras, estados y valores mostrados en las capturas son demostrativos y no deben interpretarse como información operativa real del Polideportivo Mikel Trueba. La existencia de un módulo en la interfaz no acredita una prestación productiva ni sustituye obligaciones contractuales o del adjudicatario.
 
 ## Contexto funcional
 
@@ -104,10 +104,10 @@ mikel-trueba-control/
 ├── src/
 │   └── ejemplo_analitica.py
 └── screenshots/
-    ├── 01_panel_general.jpg
-    ├── 02_aviso_estado.jpg
-    ├── 03_modulos_disponibles.jpg
-    ├── 04_indicadores_sinteticos.jpg
+    ├── 01_ficha_demostrador.png
+    ├── 02_panel_general.png
+    ├── 03_aviso_y_modulos.png
+    ├── 04_indicadores_y_condiciones.png
     └── README.md
 ```
 
